@@ -1,0 +1,88 @@
+{
+    "about": {
+        "bio": "Hello i'm Mohamed Abdelrahman Web Designer from Elminya - Egypt, I have rich experience in web site design and building, also i am good at VueJs and ReactJs, I love to talk with you about our unique. i help you build brand for your business",
+        "bioTwo": "",
+        "downloadPDF": "https://pngimg.com/uploads/comet/comet_PNG38.png"
+    },
+    "skills": [
+        {
+            "title": "HTML",
+            "icon": "html"
+        },
+        {
+            "title": "CSS",
+            "icon": "css" 
+        },
+        {
+            "title": "JavaScript",
+            "icon": "js" 
+        },
+        {
+            "title": "TailwindCSS",
+            "icon": "tailwind" 
+        },
+        {
+            "title": "VueJS",
+            "icon": "vue" 
+        },
+        {
+            "title": "NuxtJS",
+            "icon": "nuxt" 
+        },
+        {
+            "title": "ReactJS",
+            "icon": "reactjs" 
+        },
+        {
+            "title": "TypeScript",
+            "icon": "typescript" 
+        },
+        {
+            "title": "Firebase",
+            "icon": "firebase" 
+        },
+        {
+          "title": "DaisyUI",
+          "link": "https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/favicon.ico" 
+        }
+    ],
+    "timeLine": [
+        {
+            "id": 1,
+            "time" : "March 2019",
+            "title" : "learn web development",
+            "description" : "I started learning programming and then programming projects that can be viewed",
+      "links": [
+          {
+              "text": "View projects",
+          "link": "/projects"         }
+      ]
+    },
+    {
+        "id": 2,
+        "time" : "June 2022",
+      "title" : "Business Administration.",
+      "description" : "In 2018 I started studying administrative sciences in 2022 I got a bachelor of business administration.",
+      "links": [
+          {
+          "text": "What is business",
+          "link": "https://en.wikipedia.org/wiki/Business_administration" 
+        }
+        ]
+    }
+],
+    "metrics" : [
+        {
+            "title": "Cleint",
+            "count": 2
+        },  {
+                "title": "Projects"
+        },  {
+                "title": "Skills"
+        },  {
+                "title": "Experience",
+                "count": "3.5"
+        }
+            
+    ]
+}
