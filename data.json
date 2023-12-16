@@ -6,7 +6,7 @@
     },
     "skills": [
         {
-            "title": "HTML",
+            "title": "HTMLL",
             "icon": "html"
         },
         {
@@ -85,7 +85,7 @@
 ],
     "metrics" : [
         {
-            "title": "Cliient",
+            "title": "Client",
             "count": 2
         },  {
                 "title": "Projects"
