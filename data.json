@@ -1,8 +1,8 @@
 {
     "about": {
-        "bio": "Hello i'm Mohamed Abdelrahman Web Designer from Elminya - Egypt, I have rich experience in web site design and building, also i am good at VueJs and ReactJs, I love to talk with you about our unique. i help you build brand for your business",
+        "bio": "Hello i'm Mohamed Abdelrahman Web Designer from Elminya - Egypt, I have rich experience in web site design and building, also i am good at ReactJs and NextJs, I love to talk with you about our unique. i help you build brand for your business",
         "bioTwo": "",
-        "downloadPDF": "https://pngimg.com/uploads/comet/comet_PNG38.png"
+        "downloadPDF": "https://drive.google.com/file/d/19akZD5ZAfA6i4vnFNglpr3Nz0ZGYKnWZ/view"
     },
     "skills": [
         {
@@ -20,14 +20,6 @@
         {
             "title": "TailwindCSS",
             "icon": "tailwind" 
-        },
-        {
-            "title": "VueJS",
-            "icon": "vue" 
-        },
-        {
-            "title": "NuxtJS",
-            "icon": "nuxt" 
         },
         {
             "title": "ReactJS",
@@ -56,6 +48,14 @@
         {
           "title": "DaisyUI",
           "link": "https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/favicon.ico" 
+        },
+        {
+            "title": "VueJS",
+            "icon": "vue" 
+        },
+        {
+            "title": "NuxtJS",
+            "icon": "nuxt" 
         }
     ],
     "timeLine": [
@@ -66,8 +66,8 @@
             "description" : "I started learning programming and then programming projects that can be viewed",
       "links": [
           {
-              "text": "View projects",
-          "link": "/projects"         }
+              "text": "My Resume!",
+          "link": "https://drive.google.com/file/d/19akZD5ZAfA6i4vnFNglpr3Nz0ZGYKnWZ/view"         }
       ]
     },
     {
